@@ -2,7 +2,7 @@ import sys
 import cv2
 import numpy as np
 
-image_path = 'Srikar1.jpg'
+image_path = 'MAMA.jpg'
 cascade_path = '/usr/share/OpenCV/haarcascades/haarcascade_frontalface_default.xml'
 
 face_cascade = cv2.CascadeClassifier(cascade_path)
