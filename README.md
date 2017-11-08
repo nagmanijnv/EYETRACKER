@@ -1,3 +1,4 @@
 # Face-Detection
-Detect faces in images and draw a rectangle 
+Detect faces and eyes in images and draw a rectangle 
 on the faces.
+And also detect iris and  estimate gazing and according to that mpve cursor
